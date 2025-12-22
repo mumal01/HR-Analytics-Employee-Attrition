@@ -1,0 +1,12 @@
+
+HR Analytics – Employee Attrition Insights
+
+Key Findings:
+1. Employees with fewer years at the company show higher attrition.
+2. Lower monthly income is correlated with higher attrition.
+3. Sales and IT departments experience relatively higher attrition.
+
+Recommendations:
+- Strengthen onboarding and early engagement programs.
+- Review compensation structure for high-risk roles.
+- Implement department-specific retention strategies.
